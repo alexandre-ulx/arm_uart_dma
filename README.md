@@ -1,4 +1,5 @@
-# Implementação da DMA UART Idle
+# Implementation of DMA UART Idle
+
 
 In this project, the functionality of UART Idle DMA was implemented to improve the efficiency of serial communication. DMA (Direct Memory Access) is used to transfer data between memory and peripherals without direct intervention from the CPU, reducing processing load.
 
